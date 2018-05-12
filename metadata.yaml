@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37825
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Peabody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35677#Education-in-The-Home-The-Kindergarten-and-The-Primary-School
 gutenberg_issued: '2011-03-25'
 gutenberg_type: Text
 identifiers:
